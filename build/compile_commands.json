@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/swipe/Documents/stud/prog/build",
-  "command": "c:/users/swipe/gcc/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/testy.dir/testy.cpp.obj -c C:/Users/swipe/Documents/stud/prog/testy.cpp",
-  "file": "C:/Users/swipe/Documents/stud/prog/testy.cpp",
-  "output": "CMakeFiles/testy.dir/testy.cpp.obj"
-}
-]
