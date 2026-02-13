@@ -1,3 +1,0 @@
-C:/Users/swipe/Documents/stud/prog/build/CMakeFiles/testy.dir
-C:/Users/swipe/Documents/stud/prog/build/CMakeFiles/edit_cache.dir
-C:/Users/swipe/Documents/stud/prog/build/CMakeFiles/rebuild_cache.dir
