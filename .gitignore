@@ -1,0 +1,52 @@
+# ======================
+# CMake
+# ======================
+/build*/
+/out*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+install_manifest.txt
+Testing/
+
+# ======================
+# Compilers
+# ======================
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.out
+
+# ======================
+# Debug / profiling
+# ======================
+*.pdb
+*.dSYM/
+*.gcda
+*.gcno
+*.profraw
+
+# ======================
+# VS Code
+# ======================
+.vscode/ipch/
+.vscode/.browse.*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+
+# ======================
+# OS junk
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Logs / temp
+# ======================
+*.log
+*.tmp
