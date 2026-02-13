@@ -3,7 +3,7 @@ using namespace std;
 
 main(){
 system("chcp 65001 > nul");
-    cout << "илюха был голодный проглотил утюг холодный";
+    cout << "Никита бебых лошара вообще капец";
 
     return 0;
 }
